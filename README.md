@@ -1,6 +1,6 @@
 # PR-DC Arduino Library for Analog Devices AD7797
 
-The AD7194 is a complete analog front end for high precision bridge sensor applications such as weigh scales. It contains a 24-bit sigma-delta (Σ-Δ) analog-to-digital converter (ADC). The on-chip instrumentation amplifier has a fixed gain of 128, allowing small amplitude signals such as those from bridge sensors to be directly interfaced to the ADC.
+The AD7797 is a complete analog front end for high precision bridge sensor applications such as weigh scales. It contains a 24-bit sigma-delta (Σ-Δ) analog-to-digital converter (ADC). The on-chip instrumentation amplifier has a fixed gain of 128, allowing small amplitude signals such as those from bridge sensors to be directly interfaced to the ADC.
 
 For more information please visit: https://www.analog.com/en/products/ad7797.html
 
